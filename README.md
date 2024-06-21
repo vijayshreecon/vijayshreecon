@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijayshree Jayaraman
 - 👀 I’m interested in questions of identity through the use of data ...
-- 🌱 I’m currently doing my Master's in Economics at Azim Premji University, Bengaluru ...
+- 🌱 I’m currently working as a research associate in India
 - 📫 How to reach me ... jvijayshree26@gmail.com
 
 <!---
